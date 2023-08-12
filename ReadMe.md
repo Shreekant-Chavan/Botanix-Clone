@@ -5,4 +5,4 @@
 * for forms data is stored in sessionStorage
 
 ## How to run this site.
-* open the folder in you editor than only run the file.
+* open the index.html page in your browser.
